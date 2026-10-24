@@ -1,0 +1,154 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &530985239616950565
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.56
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0.9404029
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 3.564909
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -2.3003652
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7349577
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.0064138947
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0.0059173275
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.67805684
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -85.388
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_ConstrainProportionsScale
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -7511558181221131132, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: 'm_Materials.Array.data[0]'
+      value: 
+      objectReference: {fileID: 2100000, guid: 755a8ab3a8f607b4eb3106d48b449755, type: 2}
+    - target: {fileID: 919132149155446097, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      propertyPath: m_Name
+      value: Meshy_AI_Faceted_Stone_1022041517_texture
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 4587186363193979326}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 6379374502064612449}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 1496199180047363741}
+  m_SourcePrefab: {fileID: 100100000, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+--- !u!1 &837416174736452724 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 56757a75d34a53b49834ff0dfab74e55, type: 3}
+  m_PrefabInstance: {fileID: 530985239616950565}
+  m_PrefabAsset: {fileID: 0}
+--- !u!114 &4587186363193979326
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 837416174736452724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7fc8b6fe8fd718b40a6c0b3ec16752b3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::MoveForward
+  speed: 40
+--- !u!54 &6379374502064612449
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 837416174736452724}
+  serializedVersion: 5
+  m_Mass: 1
+  m_LinearDamping: 0
+  m_AngularDamping: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 0
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &1496199180047363741
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 837416174736452724}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.86612177, y: 0.54309416, z: 0.54000026}
+  m_Center: {x: 0.00022129407, y: 0.000000009212992, z: 0.2699999}
